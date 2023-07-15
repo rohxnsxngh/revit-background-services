@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "revit_api_parse_model": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\csasam\\source\\repos\\revit_api_addins\\revit_api_parse_model\\revit_api_parse_model\\bin\\Debug\\net48\\revit_api_parse_model.exe",
+      "sqlDebugging": true
+    }
+  }
+}
