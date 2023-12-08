@@ -1,6 +1,6 @@
 # Revit and GigaGraph Background Services
 
-This project is a .NET Core Web API that implements a cron job for running various Revit and GigaGraph services using Hangfire for cron scheduling, server, and dashboards.
+This project is a .NET Core Web API that implements a cron job for running various Revit and GigaGraph services using Hangfire for cron scheduling, server, and dashboards. I implemented this project at Tesla and was given permission to keep this project for display. 
 
 ## Table of Contents
 
